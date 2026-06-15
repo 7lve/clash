@@ -72,3 +72,7 @@ DOMAIN-SUFFIX,vpnapi.io
 IP-CIDR,74.125.250.129/24,no-resolve
 
 DOMAIN-SUFFIX,l.google.com
+DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,futu5.com
+DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,moomoo.com
